@@ -1,5 +1,5 @@
 {
-  "name": "surveyapp_api",
+  "name": "phoenix-back",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GawainCairns/SurveyApp_Api.git"
+    "url": "git+https://github.com/GawainCairns/Phoenix-Back.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/GawainCairns/SurveyApp_Api/issues"
+    "url": "https://github.com/GawainCairns/Phoenix-Back/issues"
   },
-  "homepage": "https://github.com/GawainCairns/SurveyApp_Api#readme",
+  "homepage": "https://github.com/GawainCairns/Phoenix-Back#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^2.2.2",

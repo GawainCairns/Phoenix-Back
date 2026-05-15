@@ -11,7 +11,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "con",
-            "database": "surveysdb",
+            "database": "Phoenixdb",
             "username": "root",
             "password": "password"
         }
